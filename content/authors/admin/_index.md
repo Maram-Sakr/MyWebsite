@@ -73,4 +73,4 @@ Maram Sakr is a joint Ph.D. student at the Mechanical Engineering Department at 
 
 Maram's research aims to quantify the demonstration quality in robot learning from demonstration. In addition, it aims to provide training for everyday users on how to teach robots by demonstration and deploy Augmented Reality to visually guide users while teaching robots. Her goal is to allow everyday users to intuitively teach robots by demonstrations and provide high quality demonstrations for the robot to learn from. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "exampleSite/static/media/Maram_sakr_CV_20052021.pdf" "newtab" >}}resumé{{< /staticref >}}.
