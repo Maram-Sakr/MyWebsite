@@ -9,7 +9,7 @@ authors:
   - Maram Sakr
   - Dana Kulić
 doi: https://doi.org/10.1016/j.arcontrol.2021.04.003
-publication: In Annual Reviews in Control
+publication: In Annual Reviews in Control, 2021
 abstract: Researchers in biomechanics, neuroscience, human–machine interaction
   and other fields are interested in inferring human intentions and objectives
   from observed actions. The problem of inferring objectives from observations
