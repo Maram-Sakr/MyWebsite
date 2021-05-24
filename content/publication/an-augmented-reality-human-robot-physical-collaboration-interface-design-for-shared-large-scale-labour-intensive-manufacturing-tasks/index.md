@@ -11,6 +11,9 @@ authors:
   - HF Machiel Van der Loos
   - Elizabeth Croft
 doi: 10.1109/IROS45743.2020.9341119
+publication: In the IEEE/RSJ International Conference on Intelligent Robots and
+  Systems (IROS), 2020
+publication_short: IROS 202
 abstract: We present an augmented reality (AR) based interface targeted for
   programming and collaborating with industrial robots on large-scale
   labour-intensive manufacturing tasks. While it has been shown that the use of
